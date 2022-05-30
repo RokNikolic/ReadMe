@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RokNikolic
-- 👀 I’m interested in Pyrhon C# and Web programming
+- 👀 I’m interested in Python, C# and Web programming
 
 <!---
 RokNikolic/RokNikolic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
