@@ -6,8 +6,8 @@
 
 ### Programing language proficiencies
 - I am most proficiencient with Python 🐍, with which i have over 2 years of work experience.
-- I am also somewhat proficiencient with: C, C++, C#, Java and Matlab.
-- I am currently very excited to learn about: Go, Node, JavaScript. And improve my knowledge of Python, C# and Java
+- I am also somewhat proficiencient with: C, C#, Java and Go.
+- I am currently very excited to learn about: Node, JavaScript. And improve my knowledge of Python and Go
 
 ### General proficiencies
 - I am proficiencient with the usage of linux and the bash shell.
